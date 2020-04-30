@@ -4,8 +4,6 @@
 
 ```json
 {
-    .
-    .
     "repositories":[
         {
             "type": "composer",
@@ -15,7 +13,5 @@
     "require": {
         "webpane/wordpress-plugin": "*"
     }
-    .
-    .
 }
 ```
