@@ -1,0 +1,18 @@
+{
+  "packages": {
+    "packatron/ads-made-simple": {
+      "0.0.2": {
+        "name": "packatron/ads-made-simple",
+        "type": "wordpress-plugin",
+        "version": "0.0.2",
+        "dist": {
+          "url": "https://packatron.github.io/ads-made-simple/dist/ads-made-simple-0.0.2.zip",
+          "type": "zip"
+        },
+        "require": {
+          "composer/installers": "^1.5"
+        }
+      }
+    }
+  }
+}
